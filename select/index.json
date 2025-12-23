@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "I Love You Baby",
+  "base_artist": "Paul Anka",
+  "createdAt": "2025-12-23T16:10:20.896946Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I love you baby",
+      "artist": "Sixpm",
+      "has_synced": true,
+      "path": "select/01_I_love_you_baby_Sixpm.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Love You Baby",
+      "artist": "K3",
+      "has_synced": true,
+      "path": "select/02_I_Love_You_Baby_K3.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Love You Baby",
+      "artist": "K3",
+      "has_synced": true,
+      "path": "select/03_I_Love_You_Baby_K3.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Love You Baby",
+      "artist": "Adriana",
+      "has_synced": false,
+      "path": "select/04_I_Love_You_Baby_Adriana.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Love You Baby",
+      "artist": "Donovan",
+      "has_synced": false,
+      "path": "select/05_I_Love_You_Baby_Donovan.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Love You Baby",
+      "artist": "K3",
+      "has_synced": true,
+      "path": "select/06_I_Love_You_Baby_K3.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Love You Baby",
+      "artist": "Brak",
+      "has_synced": false,
+      "path": "select/07_I_Love_You_Baby_Brak.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Love You Baby",
+      "artist": "Frank Sinatra",
+      "has_synced": true,
+      "path": "select/08_I_Love_You_Baby_Frank_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Singing I Love You Baby",
+      "artist": "DADARAY",
+      "has_synced": true,
+      "path": "select/09_Singing_I_Love_You_Baby_DADARAY.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Love You Baby",
+      "artist": "Lenin Ramírez",
+      "has_synced": true,
+      "path": "select/10_I_Love_You_Baby_Lenin_Ramírez.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Love You Baby",
+      "artist": "Paul Anka",
+      "has_synced": true,
+      "path": "select/11_I_Love_You_Baby_Paul_Anka.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Love You Baby",
+      "artist": "Albert West",
+      "has_synced": true,
+      "path": "select/12_I_Love_You_Baby_Albert_West.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I love you baby",
+      "artist": "Jovanotti\r\nsixpm",
+      "has_synced": true,
+      "path": "select/13_I_love_you_baby_Jovanotti_sixpm.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Emilee - i love you baby",
+      "artist": "Emilee",
+      "has_synced": true,
+      "path": "select/14_Emilee_-_i_love_you_baby_Emilee.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I love you baby",
+      "artist": "SIXPM",
+      "has_synced": true,
+      "path": "select/15_I_love_you_baby_SIXPM.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Love You Baby",
+      "artist": "Paul Anka",
+      "has_synced": true,
+      "path": "select/16_I_Love_You_Baby_Paul_Anka.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Love You Baby",
+      "artist": "Donovan",
+      "has_synced": true,
+      "path": "select/17_I_Love_You_Baby_Donovan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I Love You Baby",
+      "artist": "Paul Anka",
+      "has_synced": false,
+      "path": "select/pl_01_I_Love_You_Baby_Paul_Anka.txt"
+    }
+  ]
+}
